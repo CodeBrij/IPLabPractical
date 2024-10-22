@@ -13,7 +13,7 @@
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  background: linear-gradient(#7fe9f7, #c0d65f, rgb(162, 255, 0));
+  background: linear-gradient(#84f1df, #c0d65f, rgb(162, 255, 0));
 }
 
 .error{
@@ -33,6 +33,7 @@ body {
   padding: 20px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: aliceblue;
+  border-radius: 5px;
   box-shadow: 0 2px 5px rgba(172, 222, 240, 0.651);
 }
 
